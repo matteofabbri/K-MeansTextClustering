@@ -1,0 +1,9 @@
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.deps.json
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\bin\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csprojResolveAssemblyReference.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.csproj.CoreCompileInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfoInputs.cache
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.AssemblyInfo.cs
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.dll
+C:\Users\pashk\Desktop\KMeans\Odin.KmeansClustering\Odin.KmeansClustering\obj\Debug\netcoreapp2.0\Odin.KmeansClustering.pdb
