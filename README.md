@@ -1,2 +1,2 @@
 # K-MeansTextClustering
-.Net Core Generic Library for Text clustering using K-means algorythm
+.Net Core Generic lib for Text clustering using K-means algorythm
